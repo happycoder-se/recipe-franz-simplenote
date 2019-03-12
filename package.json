@@ -1,0 +1,13 @@
+{
+  "id": "simplenote",
+  "name": "Simplenote",
+  "version": "1.0.0",
+  "description": "Simplenote",
+  "main": "index.js",
+  "author": "Fredrik <fredrik@ducce.com>",
+  "repository": "https://github.com/ducce/recipe-franz-simplenote",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.simplenote.com/"
+  }
+}
